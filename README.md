@@ -33,3 +33,7 @@ At first almost every test fails: that is expected. Each method you finish turns
 - Work out an example by hand before you write the code.
 - Use `decimal` for money, and give every value a meaningful name.
 - A method you've written can call another one. If two methods need the same calculation, write it once.
+
+## Hand it in
+
+When it works, push your solution to a public repo of your own on GitHub, then paste that repo's address into **Submit your exercise** on the lesson page at [ask-codey.com](https://www.ask-codey.com). That's what completes the lesson. The lesson page shows the Git commands, step by step.
