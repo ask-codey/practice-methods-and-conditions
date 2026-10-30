@@ -1,8 +1,8 @@
-# Practice: Methods and Conditions
+# Exercise: Methods and Conditions
 
-Practice code for the lesson **Practice: Methods and Conditions** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
+Exercise code for the lesson **Exercise: Methods and Conditions** in the C# Full-Stack Bootcamp on [ask-codey.com](https://www.ask-codey.com).
 
-Three small businesses need your help. Each one is a class of methods in the `MethodsPractice` project:
+Three small businesses need your help. Each one is a class of methods in the `MethodsExercise` project:
 
 - `BackyardBasketball.cs`: winning percentages, points scored, and shots needed
 - `ClairesCookies.cs`: cookie orders, prices and sales tax
@@ -13,10 +13,10 @@ Every method returns `0` (or `""`) for now. The comment above each method says w
 ## Run it
 
 ```bash
-dotnet run --project MethodsPractice
+dotnet run --project MethodsExercise
 ```
 
-In Visual Studio, open `MethodsPractice.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
+In Visual Studio, open `MethodsExercise.slnx` and press **Ctrl+F5**. `Program.cs` calls a few of your methods, so you can try them out.
 
 ## Check your work
 
